@@ -1,0 +1,40 @@
+body {
+    background-color: #4e5155;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+    color: whitesmoke;
+}
+
+#form-title {
+    margin-bottom: 30px;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #e49f0a;
+    border-color: #e49f0a;
+}
+
+.btn-primary:hover {
+    background-color: #b3640b;
+    border-color: #b3640b;
+}
+
+.btn-link {
+    color: #e49f0a;
+}
+
+.btn-link:hover {
+    color: #b3640b;
+    text-decoration: underline;
+}
+
+#message {
+    margin-top: 20px;
+}
